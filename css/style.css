@@ -1,0 +1,24 @@
+body{
+	width: 400px;
+	height: 333px;
+	padding: 0px;
+	background-color: rgba(15, 197, 55, 0.62);
+}
+#app {
+	margin: -25px auto;
+}
+h2{
+	margin-top: 0px;
+	font-family: seo;
+	text-align: center;
+	font-size: 18px;
+	color: white;
+
+}
+.result{
+	min-height: 30px;
+	height: 100%;
+
+}
+.result:forcus{
+}
