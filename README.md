@@ -1,5 +1,5 @@
-#Cao với (convert) Tiếng Việt theo kiểu mới.
-###Đây là một tiện ích nhỏ chạy trên chrome cho phép các bạn chuyển cú pháp Tiếng Việt sang 'Tiếq Việt'
+# Cao với (convert) Tiếng Việt theo kiểu mới.
+## Đây là một tiện ích nhỏ chạy trên chrome cho phép các bạn chuyển cú pháp Tiếng Việt sang 'Tiếq Việt'
 <br>
 ![DEMO](https://i.imgur.com/ozEYXdE.png)
 <br>
